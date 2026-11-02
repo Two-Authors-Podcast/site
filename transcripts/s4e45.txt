@@ -1,0 +1,477 @@
+## Cold open
+
+MELANIE: I should have said I'm not giving you any advice, because I miss her terribly.
+
+DOUG: Go and one-star her a whole bunch on her book.
+
+ANNOUNCER: Welcome to The Two Authors' Podcast, an entertaining chat show hosted by bestselling mystery and thriller authors Douglas Pratt and Nicholas Harvey, in lively, humorous and informative conversation with distinguished guests who share their thoughts and experience about forging a successful author career.
+
+## Welcome, and Vellum's device preview
+
+DOUG: Welcome to this week's show, brought to you as always by the fabulous Vellum, the best formatting solution in all the world.
+
+NICK: It's amazing.
+
+DOUG: To infinity and beyond. I was messing with it the other day, and you know what I really love about it? It's got a live device preview. If you want to see what your book looks like on an iPhone, an iPad or a paperback, any size, you can just look at it. That helps a lot when you're looking at where the back matter falls. You want that QR code, or whatever you're doing in your back matter, to fall where readers can see it, not end up on the next screen.
+
+NICK: It is. Print is where it makes a huge difference, because on e-readers people change their font size and line spacing and everything else, so you never know where the breaks are going to fall. But in print you can control all that. You can preview it and know exactly how it's going to come out. It's a great feature.
+
+## We're in Vegas
+
+DOUG: And before we thank our Patreon supporters, I want you all to know we're having a great time in Vegas as you're listening to this.
+
+NICK: That's right. We'll be in Vegas at this time. This comes out on the tenth, so it's the first day we're really getting involved there. It's vendor day.
+
+DOUG: So we're hanging out with the Brads of Vellum right now. If you're wandering around Author Nation this week, come by and look for us. You'll find the two sexy guys walking around. Come and get a badge from us. We'll have our badges.
+
+NICK: Also, we want to make sure we thank all of our Patreon supporters. If you're finding any value in this show, it's three dollars a month. We try to throw in some good questions and good discussions on there, and really you're just supporting us in keeping the show moving along.
+
+DOUG: It helps keep it on the air, folks. So we've got a really great guest today, and we're excited about this: USA Today bestselling romance author Melanie Harlow. We're going to chat with her, but first we have a Two Authors' Question from our recent guest, Robert Gold.
+
+## The Two Authors' Question from Robert Gold
+
+NICK: Robert Gold, thank you very much for sticking around with a Two Authors' Question for us. You're turning the tables. What have you got for us?
+
+ROBERT: Okay, gents. I've been fortunate enough to work with some of the greatest thriller writers, a lot of whom have come from the US, and a lot of my favourite writers, Karin Slaughter and Harlan Coben, are US-based. But if I flip that and ask you who your favourite English thriller writers are, who would they be?
+
+DOUG: Ooh, wow, that's a good one.
+
+NICK: Angela Marsons would be one of mine. We've had Angela on the show. She's fantastic, and she writes some pretty cool books. So I'm going there.
+
+DOUG: I'm actually reading Ava Glass, who we're having on next week, and it's been really good. But I'm going to jump back to a good friend of ours, Luke Richardson. He writes some really good action stuff.
+
+NICK: The treasure-hunting stuff he does.
+
+DOUG: There are just so many of them. It's tough to say.
+
+NICK: Mick Herron. I mean, the Slow Horses series. Genius. And then John le Carré.
+
+DOUG: I think there's also some guy called Robert Gold. I've heard about him.
+
+NICK: He baited that question.
+
+DOUG: And he noted how long it took us to get around to saying it. But I've heard he's a hell of a diva. I think there's also that Nicholas Harvey. I don't know, I could count him. He's okay.
+
+NICK: I'm mid-Atlantic now. I don't think the Brits claim me, and I don't think the Americans claim me any more.
+
+DOUG: Well, then you're my favourite Caymanian writer. How's that?
+
+NICK: There we go. So, Rob, you've had some amazing co-writes, Patterson obviously being one of them. Is there somebody else globally that you'd like to work with?
+
+ROBERT: When my first book was published, I very kindly got some quotes saying I'm like the British Harlan Coben. So I think Harlan would have to be my one. I'd love to work with Harlan Coben. His novels twist and turn in such incredible ways, and I guess I've learnt a little from him. So yes, I'd love to work with him.
+
+DOUG: And it might get made into a TV show or a movie. Some of his have.
+
+NICK: I hope he's listening.
+
+ROBERT: I think he does.
+
+DOUG: Exactly. They're making movies out of his thoughts. He doesn't even have time to write them and they're making movies out of them.
+
+NICK: All right, Rob, thank you so much for joining us, and for the question. We appreciate it.
+
+ROBERT: Hey, thanks, guys.
+
+## From teaching English to romance
+
+DOUG: Welcome to the show, Melanie. We're so excited to have you with us today.
+
+MELANIE: Thank you so much for inviting me. I'm a fan of the podcast, I love a podcast in general, and writers are my favourite people to talk to.
+
+NICK: I think we should stop right there, Doug. I don't think we're going to get further ahead than we are right now, when she's said she likes the podcast.
+
+DOUG: That's it. I don't care if she's making it up. That's the best sign ever.
+
+MELANIE: I listened to the NINC recap and it was like I was back there again. It was so nice.
+
+DOUG: Well, thank you so much. If you listen, you know we jump right in: tell us how you got started writing, when you were first published, a little about your history.
+
+MELANIE: I was teaching high school English for a while. I love talking about books, and some of the students were more enthusiastic than others, but I really did like teaching English. I always had it in the back of my mind that I wanted to write. When I first took time off to have my oldest daughter, who is twenty-one now, I started thinking about it more seriously. I used to wake up at five in the morning before she woke up and write between five and seven, and once she was up, that was that.
+
+I did try to get an agent in the beginning. I was writing YA, which is what I always thought I was going to write. This was roughly 2009, 2010, 2011. I queried and had some requests, but not much success, and I kept writing. Then I had some friends who were self-publishing romance, so I thought, I'll just try it. That was in 2013. I took one of the books I'd written as a YA. It was a YA historical, and I don't know why I thought this was going to sell, but I did. The agents, bless them, said, "We really love your writing, but we don't know how to sell this." At the time I was all offended, but it turns out they were right. There really isn't a market for 1920s YA historicals.
+
+I live in Detroit, which had a really important role during Prohibition, because we funnelled in so much whiskey from Canada. So I had a great time writing this book about bootleggers and all kinds of historical stuff, but I guess YA readers weren't going to read it. So I took that book, made it a lot more sexy, upped the ages of everybody, and self-published it and a follow-up. Pretty quickly I saw that those agents were probably right, and I moved to contemporary romance, which everybody was having a better time writing.
+
+DOUG: That's less research too, I'd think.
+
+MELANIE: Much less research. So I moved into that lane in 2014, and I've been there ever since.
+
+DOUG: So writing about Prohibition-era Detroit, did you have speakeasies?
+
+MELANIE: Yes. That's the name of it. It's called *Speak Easy*.
+
+DOUG: So what did you take from writing historical fiction that you could still use in contemporary? What's the difference, besides the research?
+
+MELANIE: Writing any book, you develop habits of discipline and focus.
+
+DOUG: Those are two things I do not have.
+
+NICK: How did you finish the book, then?
+
+MELANIE: So I think it definitely taught me how to be a writer. As far as what's on the page, I got better with dialogue, with description, with the mechanics of it, and also just a better storyteller. I've always been a reader, but when you're reading something you love, you're so entranced by it that you're not stopping to think, how is she doing that? The more you read, the more intuitive it becomes. So hopefully I'm still getting better with every book.
+
+## The first book
+
+DOUG: The first few books are never going to be your best written, which is something I have to tell a lot of newer writers. My first one's garbage. It's on Amazon, and I tell people, don't read it. If I were smart I'd go and rewrite it someday, but I've got other things to do.
+
+NICK: I always tell people my first book is probably one of the best stories I'll ever come up with, because I had fifty-something years to come up with that story. The next one, I had about six months. So the story's the best, but from a craft point of view, you evolve. I've gone back in and edited it and made some improvements, and I'd love to take the time to do that again. But that's the big difference. You have these great story ideas, and then the tools of the trade come from just doing it more and more.
+
+MELANIE: And there's a really wonderful sense of freedom when you're writing that first book. You don't have any other voices in your head. No one's telling you anything. You don't have bad reviews in your head. You don't have "when is the next one coming?" in your head. You don't have, "Shoot, I did that in the last book." Sometimes I'm typing and I think, I'm thirty-some books in, and I feel I have written this exact sentence before.
+
+DOUG: Or the same character names. I'll be going through thinking, have I had this character before? Can I use this name again? It's a side character. You start running out of names.
+
+MELANIE: A hundred per cent, because there will be that person who says, "Wait a minute, there was a Sebastian in your first book and now there's a Sebastian in your twenty-fifth. Is that the same Sebastian?" And I'm like, nope, I just ran out of names.
+
+DOUG: Here's a quick side question, because you made me think of it. My kids were just talking about which movie you'd want to watch again for the first time. And as you say this, I think finishing that first book would be it. Do you both agree? If you could go back and grab the feeling you had when you finished that first book and thought, it's so great, I finally did it, that's the feeling I'd want to grab.
+
+MELANIE: I wish I could grab the feeling of writing that first book all the time. It was just me and the words. I had no other voices in my head. I barely had my own voice in my head. It was just me and the characters, and I didn't appreciate how good it felt.
+
+DOUG: You don't know. It's like a really cool high that you don't realise you're getting at the time.
+
+NICK: I had mine when I was a third of the way through, thinking, how the hell am I going to write another two-thirds of this thing?
+
+MELANIE: Do you plot or do you pants?
+
+NICK: A mixture of the two, and that's what I was doing then. When I wrote my first book, I'd written some screenplays and stuff before, but never a whole book, and I was so ignorant. I knew nothing. I didn't even think about the genre when I started. I just sat down and started writing, plotting out the next few bits and pieces, with a bit of a skeleton plan for the whole thing.
+
+MELANIE: And you're literally Googling how many words are supposed to be in a chapter, how many words are supposed to be in a book. The real bare-bones basics. So I agree: there's the feeling of euphoria when you got to the end of that book, and some freedom while you were writing it, but there were also some terrors while writing it, for sure. Like, what am I doing?
+
+## A word from Booksflyer
+
+BOOKSFLYER: And now we'll hear from this episode's sponsor. Booksflyer is an advertising tool designed to optimise bids in Amazon advertising. The system helps you make sure the ads pay for themselves. By allowing Booksflyer to safely scale up your ads, you stay in complete control while freeing up time to focus on other areas of your business. With quality customer service and continuous tool improvement, Booksflyer makes Amazon ads easy to manage for every author. Check it out at booksflyer.com and take advantage of the free trial today.
+
+## Building a small town
+
+DOUG: All right. Speaking of stories, you have some brilliant small-town settings that become characters in your books. Talk about how you build that up, and when you start a new series and have to make a new town, how do you make it the same but completely different?
+
+MELANIE: It is a challenge, because so much of what's appealing about small-town romance is the small-town setting, and they're a lot alike. So you have to work to make each one feel like its own individual self. The first time I got really intentional about it was right before I started a series called Cloverleigh Farms, whose first book came out in 2019. In the summer of 2018 I made the decision to treat my writing, my career, more like a business, and to stop just writing whatever came to mind and covering it however I felt like covering it. In my early days I had a lot of covers that didn't make sense, and series that didn't gel together as well as they should have. So I thought, okay, I've learned something, I'm going to put it to use. I knew better what my readers wanted from me, but it took a couple of series to get there.
+
+So right before Cloverleigh Farms, I sat down and mapped out the place, the families, the people and the tropes, and I was very intentional about it. It's based on a place in Michigan. I set pretty much all my series in northern Michigan now. It's a beautiful area, and it has everything you'd want in small-town romance: all four seasons, lakes, forests, and what we call mountains. Okay, I'll call them hills. So I was able to pull in a lot of what I love about the geography, match it with characters, tropes and stories I knew readers would love, and go from there. I've revisited that place many times in my books, because my readers really love it when they hear the name Cloverleigh Farms.
+
+NICK: Brilliant. One of the things you said there was that you made the decision to treat your writing as a business. That's something we talk about a lot on this show. Writing's a pleasure, and if you want to do it for pleasure, that's fantastic. But if you want to make a career out of it, if you want it to be your income, then approaching it that way is so key. We've actually just started doing a talk called Publishing with Purpose, which we gave for the first time recently, and you've touched on some of its key elements. You've got to think ahead, and it's so hard to think of these things at the start. I wrote my first book while I was working full time doing something else, and when I wrote the second one I thought, okay, I'd like to have a real go at this. Even then, think of everything I didn't know.
+
+DOUG: The biggest message is publishing with purpose. Make sure there's a decision behind everything you do and every choice you make. It's great to hear you talk about it.
+
+MELANIE: Well, first of all, if I'd known everything I needed to know when I was starting out, I probably wouldn't have typed a word.
+
+DOUG: You'd never even try it. That's a lot of work.
+
+MELANIE: So I think it's better that you don't know everything in the beginning. You start riding the bike, you work the muscles and build them up. By 2018 I'd been publishing for four years and had about three series under my belt, and I thought, okay, I know what sells well for me and I know what my readers like. How can I wrap all of that up and deliver it at this cadence and on this schedule? I knew I wanted to be successful and make money at it. I didn't just want to write the books of my heart, which is a fantastic goal. If you just want to write the books of your heart, there's absolutely nothing wrong with that. But I was looking to maximise revenue, really grow a readership and grow that newsletter, so I thought very carefully about the decisions in that series.
+
+## When to end a series
+
+DOUG: So with a business mindset and several series behind you, how do you decide when a series is coming to an end, and it's time to build a new town and go somewhere else?
+
+MELANIE: I decide at the top of the series how many books are going to be in it, because I need to introduce the characters throughout. I want readers to be really anxious for Henry's book, so Henry has to be there throughout the series. They have to care about Henry from the get-go.
+
+DOUG: So why create a new town, instead of adding a character in Henry's book who, four books later, gets his own book too?
+
+MELANIE: I think there's a sweet spot for a romance series. Certainly there are people who could prove me wrong. There are series that have been going for decades, with dozens of books. But for me the sweet spot is between three and five, because after that point the chances of a new reader coming in when I release book eight are slimmer than if I start somewhere new.
+
+DOUG: So a new series is almost about discoverability for new readers as well.
+
+MELANIE: A book one is hard. A book one can be a tough sell to your existing readers, because they worry, what if I don't love this? I liked the old ones. And you don't have the pre-orders built up the way you do as you move through a series readers are already into. But I like an entry point, and a new series is a new entry point.
+
+NICK: That's one of the things we've talked about: book one is a challenge. We've both written new series that tie in with our main series in some way, but getting those first books off the ground is hard. We've often said we won't even bother advertising a series until it's three books in. At three to five books per series, you probably have the series finished by the time you realise it's taken off. But do you think there's a magic number where you think, okay, I've got three in this series, I can start pushing it harder?
+
+MELANIE: No, I push hard from book one. But if a debut author came to me and said, "I'm starting my first series. Should I advertise this book?", I would say no. I'd say three books. Once you're releasing the third book in the series, you can start putting some money into it. Before that, unless you're independently wealthy with money to burn, I would not recommend a lot of advertising. I'm at a point in my career where I have a built-up readership and a healthy marketing budget, so I can afford it. But if I couldn't, I'd wait until I was three books into a series.
+
+DOUG: If I had money to burn, I'd probably just write for fun.
+
+MELANIE: I'd go back to Prohibition.
+
+## How a series grows
+
+NICK: Here's a question I'd love to hear your answer to. You're established, and we'll get on to your newsletter list, but we know it's big. So even though we talk about book one being difficult, you're bringing a good-size audience across into a new series, so you can start advertising, because it isn't launching into a void. But is there a curve where, say, at three books, the rest of the world, beyond the people you're telling directly, starts to know about the series and it takes off? Or is it linear?
+
+MELANIE: That's a good question, and I was thinking about this recently. I have series where book one is the standout, and series where book two is the standout. I don't know what it is particularly. Sometimes it's a viral video, so more people found book two and maybe went back and read book one. But generally, across a five-book series, book one is going to be the best, and you're lucky if you can hang on through book five. We used to have BookTrakr. Remember BookTrakr? So beautiful, with its colour-coded everything. I don't know how to use Claude.
+
+DOUG: Melanie's a romance author. She's not allowed to use Claude.
+
+MELANIE: It's getting a little easier. People are admitting they use it more for business things. I just have to set aside time to teach myself a skill that isn't a craft thing, because I get obsessed with craft courses. Anyway, the numbers do go up, because people still come in and read books one through five. What's interesting is when you can tell there's a dud in a series. Every now and then that happens, and you think, wow, book four really missed the mark.
+
+DOUG: And do you burn the town down and kill all the people?
+
+MELANIE: No, I keep going, because I've promised Henry a book, and Henry is book five. He needs his book.
+
+DOUG: Book six is when the aliens come in.
+
+NICK: We're thriller writers, so at some point the town has to burn and everyone has to die.
+
+MELANIE: You can sense it in the first couple of weeks, but it takes a little time to be sure a book underperformed. Now, if I'd planned a five-book series and released two or three books, generally three, and it just wasn't catching on and my readers weren't investing in it, I wouldn't necessarily finish it. I feel fine walking away from a series that's underperforming, because it's a business. I don't owe those characters a book. And if readers aren't showing up, I feel like I'll serve them better if we start over somewhere new.
+
+NICK: That's brave. Have you had to do that?
+
+MELANIE: I have not had to.
+
+DOUG: I figured. You were saying you'd do it, but you've never had to.
+
+MELANIE: But I would. I have friends who've done it. I have one really good friend who just could not bring herself to write one particular book, so she told everybody the hero moved to Egypt.
+
+DOUG: I have a series I love that I'm four books into. I'm going to write the fifth, because it'll wrap the whole thing up, but it has not sold well. It's probably my best series. Nick tells me it's the best, and so does my mum.
+
+NICK: I tell you it's the second best. Your Jay Delp series is the best, but this is only narrowly behind it. It really is. I just think there are a couple of things, marketing-wise, with the cover and title and so on. I'm badgering him like crazy to rebrand it.
+
+DOUG: I'm going to write the fifth one. I'm not going to end it end it, but I'm going to wrap it all up, so I don't have to worry about it. I'm kind of like you. I could write it, but it doesn't make any money, even though I enjoy writing it. I can go and write something else.
+
+MELANIE: If you're getting joy out of it, that's currency too.
+
+DOUG: The mortgage company doesn't take it. I've tried. But I do believe in that, so I try to balance out the projects. By wrapping that one up, I have some other projects I want to do as well, so it gives me a chance to spread out and not get quite as bombarded.
+
+## Finding new readers
+
+DOUG: Let's talk a little about marketing, because I know a lot of people want to talk about it. We're all writers, but self-promotion is a struggle for us. Besides Facebook ads and Amazon ads, what are you finding works for getting new readers into your series?
+
+MELANIE: I do run digital ads and I do use social media. I hired someone to do TikTok for me, because I'm not that generation. I don't really know how to use it, and I don't engage with it as a user either.
+
+NICK: Doug's all over it. He's a big TikToker.
+
+DOUG: I am not. My wife does all my TikToks for me and runs my TikTok channel. She's told me never to get on there, because I'll watch the wrong stuff and screw up the algorithm. So I do have one that's mine to look at, and then she has the one she does.
+
+NICK: She's given Dougie a playpen on TikTok.
+
+DOUG: And I want to tell you whose fault that was: Mandy Morgan's, who told her, "Don't let him use that. He'll just screw up the algorithm."
+
+MELANIE: That happens to me on Instagram a lot, because I don't have a personal account. I only have the one account, and I get taken in by a lot of dance videos. I watch a lot of ballet on Instagram, so it's constantly serving me dance videos.
+
+DOUG: That's exactly what Nick does in his spare time: ballet videos. So you may come across him.
+
+NICK: They're dance videos. We can call it ballet.
+
+MELANIE: Any kind of dance video, I'll watch it.
+
+DOUG: Did you see us dance at NINC, then?
+
+MELANIE: You were there? I didn't see.
+
+DOUG: That one went undocumented, so you missed it. You'll have to come karaoke with us next time. It gets a little bit wild.
+
+MELANIE: So, back to the TikTok. I do ads, I use social media, I use my newsletter, and I do exclusive newsletter swaps with friends. But I'm twelve years in at this point, so what I do to find new readers is different from what somebody just starting out would do. When I was starting out, I ran a lot of promotions. I used Written Word Media and BookBubs. Now there's an argument about whether BookBub is as effective as it used to be. It's hard to say. Do you have thoughts on that, Nick?
+
+NICK: Yes, I do. One of us just ran a BookBub, and we're not too impressed.
+
+MELANIE: Let me ask about that. Was it a free Featured Deal?
+
+NICK: No, ninety-nine cents. I've moved away from doing free on things like that, because the Amazon algorithm likes conversion, or that's the current word. If you send traffic there that doesn't end up reading the book, that can damage your relevance in the long term. So I did a ninety-nine-cent deal, because the people you get are buying, and they're more likely to read it. But my most recent one didn't have a great return. I also just did a promo week with a stack of different promotions, which I hadn't done in two years, because they'd been getting less effective, and they haven't improved for me.
+
+It depends what you're after. If you're looking for an immediate return on investment, it's probably a bit of a struggle. It's also super genre-dependent. And with most of these promos, BookBub very much included, look at where you land on the list and who else is on it. They've always done a ton of deals with traditionally published authors. If there's a stack of big-name trad authors on there, then by the time the person reading that email has spent their two ninety-nine and another two ninety-nine on discounted trad ebooks and gets down to yours at ninety-nine cents, it looks promising, but they don't know who you are and they've already spent their budget for the day. You're done. And if you're further down the list, especially below the break, it's a tough sled.
+
+MELANIE: I do think it's less effective than it used to be. At this point, if I were starting out, I truly believe the packaging is everything: an on-trend, genre-specific cover. You have to nail the blurb. It should make sense for your genre and sound like the other blurbs in your genre. You have to do a ton of research, be willing to invest in a good cover, and write a good blurb. You need to get people to that product page, and a good cover will do that whether you run paid ads or not.
+
+What romance authors are doing now is called a content team. These are people who are willing to create content from assets you provide and share it, and the content team members are rewarded. Sometimes you surprise them by sending them a paperback they can't get anywhere else, so it becomes a cool, fun thing to be on someone's content team. If you're brand new, you're not going to have a content team of five hundred people. But even if you had ten readers, you start there. Everybody started somewhere.
+
+DOUG: Is a content team similar to a beta team? You build it yourself from your own followers? That's a pretty smart way of doing it.
+
+## The bonus scene opt-in
+
+DOUG: So let's talk about newsletters. One of the reasons we loved getting you on here is that you gave a talk at NINC a couple of years ago that we both thought was brilliant. You romance authors were hiding this secret.
+
+NICK: Sneaky.
+
+DOUG: We didn't know about it. We thought, whoa, this is great, and we both did it. I know Nick says he doubled his list. I don't remember exactly, but I added a significant number of new subscribers following some of what you suggested.
+
+MELANIE: Amazing. I'm dying to know what I said that was so helpful.
+
+NICK: You said you need to have a newsletter. Turns out going from zero to one, you've doubled it.
+
+DOUG: No, you started us thinking about bonus material. You romance writers get to do character cards. Nobody really cares about character cards for our thriller stuff, but you do get to be creative. So talk us through it, Melanie, if you can remember what you told us.
+
+MELANIE: I think the strategy you're talking about is what we call the bonus scene opt-in, or cookie opt-in. As soon as you get to the end of my ebook, and it looks a little different in a paperback, where I use a QR code, it says something like, "Thank you so much for reading. If you'd like a peek into the hero and heroine's future, subscribe to my newsletter, and the first thing you'll be sent is a bonus scene." You're catching them right at the end, when they just want more of those characters and more of the feeling they have right now in their fuzzy-wuzzy heart.
+
+So they click a link or use the QR code. I use Kit, so I have landing pages or forms embedded in my website. They put in their name and email, and it says, "Great, check your inbox to confirm," because I use double opt-in. The subject of that confirmation email says something like, "Confirm to get your *Irresistible* bonus scene," if *Irresistible* were the title of the book. They open it and click confirm, and that immediately takes them to a scene on my website that's sort of hidden. They read it right there. Other authors do it so that when you click, it takes you to BookFunnel.
+
+DOUG: Nick does it the other way.
+
+NICK: I've done that.
+
+MELANIE: I didn't feel like setting all that up, so I just use my website, but you can also use BookFunnel. What I often do at the end of the year, or when I finish a series, is take all the bonus scenes, put them in one file, and offer it as a Christmas gift: "Here are all my bonus scenes for this series, free. You can download them from BookFunnel now."
+
+But I think the key is that you're capturing them right at the end, when they just want more of that couple. I don't know what it would be for another genre, but whatever that feeling is, you want the scene to capture it. I go into the future: a proposal, a wedding, a baby, a sweet family scene many years later. I also have it set up so that the next day they get a follow-up email: "Did you enjoy your *Irresistible* bonus scene? If you didn't get it, click here. If you did, here's what's up next." And that leads them into the funnel, to the next book.
+
+NICK: So you've built in some deliberate steps that qualify people for your newsletter list. They have to be sent an email and act on it.
+
+MELANIE: But as soon as they confirm, they're on. I use double opt-in because that was the recommendation at the time. When they hit confirm, they're taken straight to the scene, and there's nothing else they have to do. I felt I was removing some friction by having it be a quick click straight there rather than a download. It was pretty easy. I use WordPress, and I'm not techie, but I can manage it. And if it's the newest release and there's nowhere next to go in the series, I send them my reader map graphic in that follow-up email, with all the starting points, and suggest one for them.
+
+DOUG: That's kind of cool. Nick, you should do one for AJ with a map of the different dive sites. That'd be neat.
+
+NICK: I've done a mixture of different things. I've had a song for one. The one thing I've learned not to do is make it feel like a scene that immediately follows the end of the book. If it's set a little further into the future, slightly separated, it's okay. But if it feels like something that happened soon afterwards, I get emails: "I had to download this to finish the book."
+
+MELANIE: Call it a bonus scene, a peek at their future, something like that. The book needs to feel like a complete experience. That's also why, for other opt-in cookies, I would never use a partial chapter, a scene from an existing book, or a chapter one. It needs to feel like something you can't get anywhere else. It needs to feel exclusive. They're giving you their email, so you need to give them something valuable.
+
+DOUG: I've been treating it like the end of Marvel movies, where you get to the end of the credits and there's that extra scene that mostly doesn't matter to the story. It's just a bonus. But some people still say, "I had to download this. How dare you make me do that?" And I think, well, you didn't have to. That's also how they sound when they email me all the time.
+
+## Which bonus scenes bring in new readers
+
+NICK: I've got too many questions, that's the trouble. So you put a bonus in every release, not just the book ones?
+
+MELANIE: Every release, yes. I get that question a lot: are you writing bonus scenes for every book you write? And the answer is yes.
+
+NICK: From book one to, say, book six in a series, which bonus is most effective at adding new people to your list?
+
+MELANIE: That's an interesting question. I don't know that it varies. When people get there, they just click it. I always describe it the same way, as a peek into the future, so I don't know if there's a way to tell which bonus scenes perform better. But I think it needs to deliver the same feeling. A lot of romance authors are so smart: they use those bonus scenes to drop a cookie crumb about the next book in the series, so it not only gives you that warm fuzzy feeling but also plants a little seed of curiosity, so you're anxious for the next book. That's a successful bonus scene. The work you do to get somebody on the list is in the book itself. You write a fantastic book and drop the opt-in in the perfect place. The bonus scene itself should be relatively light. They just want another thousand words to make them feel good.
+
+NICK: I'm a bit of a dork, so I track a lot of these bits and pieces. I definitely see that the book one bonus gets more new readers. Deeper into the series, plenty of people take the bonus, but most of them are already on your list. The actual new names tend to come from the front.
+
+MELANIE: I haven't tracked that, so it's harder for me to say, but on the back end of Kit I can see how many hits a landing page gets. And you're right, it's always more on a book one, because that's the entry point. Although in 2021 I had a viral TikTok on a book two, and a ton of people came in on that book, so I have a lot of people who got on the list from it.
+
+DOUG: So you have viral TikToks, and you said you don't even have TikTok.
+
+MELANIE: It's not me. It was just a scene from the book. I don't even think it was on my TikTok. It was a BookTokker.
+
+## A word from Booksflyer
+
+BOOKSFLYER: And now a quick word from this episode's sponsor. Booksflyer changed the way I approach my Amazon ads. Instead of fretting over my ads every day, I check in once a week, confident that nothing has gone crazy and that I haven't missed a chance to raise the spend on ads delivering a positive return. Booksflyer handled it. A total game changer, with outstanding value and amazing customer service. Check it out for yourself at booksflyer.com.
+
+## Do newsletters still matter?
+
+DOUG: We've been talking a lot lately about the changes. You've been doing this for twelve years. Do newsletters still hold the same place in marketing they used to?
+
+MELANIE: Yes and no. Nothing moves the needle for me like a newsletter, still, to this day. When I send out a newsletter with a sale or a freebie, I can see the spike that day on my dashboard.
+
+NICK: If you don't mind me putting you on the spot, Melanie, roughly how many people do you have on your newsletter list?
+
+DOUG: My list needs some Viagra.
+
+MELANIE: I'm going to be completely candid with you. I used to have more. When Gmail made it very easy to unsubscribe, I started getting a lot more unsubscribes. And I signed with a traditional publisher, so I haven't had an indie release in two years, which means no opt-ins and no bonus scenes. My unsubscribes have outpaced my new subscribers for the most part, so I'm at a net loss over the last several years. I think I used to have about 187,000, and now I'm just over 180,000, which is very painful for me to think about, let alone say out loud.
+
+NICK: It's still a big list.
+
+MELANIE: And my open rate is usually between 40 and 44 per cent.
+
+NICK: For a list that size, that's strong.
+
+DOUG: That's pretty impressive.
+
+MELANIE: It's still a good-size list, and it's still doing some muscular work for me. So I do still think it's worth it. I have a new indie series coming in 2027, with three books planned, and I'm hoping to win back some of those subscribers. It'll be an interesting experiment, because I don't know whether people are hopping on to email lists, even for romance bonus scenes, the way they were between 2018 and 2024. That was a very good period for romance authors growing a list.
+
+NICK: That'll be really interesting feedback, because people are so scared of clicking on anything these days. A lot of what we're seeing with ads is that people see the ad and think, I want that, then go to Amazon or wherever they buy books and get it, but they won't click the ad to get there, because they've been trained not to click on things.
+
+MELANIE: We're all oversubscribed at this point. I'm leaving lists I subscribe to as well, so I fully get it. And in reality, you only want people on there who are interested. It's expensive to maintain a big list, and you want people who are interested in what you have to say. I do still think it's worth investing time and money in your list, but I don't know that it's the miracle it used to be. We used to do newsletter swaps all the time, and I think they used to be more effective. I don't really bother arranging them any more. Occasionally I'll put in a friend's new release or freebie, but you don't find established romance authors worrying so much about newsletter swaps now.
+
+## Bonus scene or pre-order first?
+
+NICK: I remember what I was going to say. I don't do a bonus in every release any more, because my series tend to be longer. When I do, it's the first call to action: they sign up, go to the website, and at the bottom of the bonus there's the link to pre-order the next book. When I compare that with having the pre-order as the first call to action and no bonus, I get more pre-orders when the pre-order is the immediate call to action, even though it's right at the bottom of the bonus. It's not a huge difference, but it's five to ten per cent fewer pre-orders.
+
+MELANIE: I'd believe it. The first call to action when somebody finishes a book is what you're going to get. So you have a choice to make: would you rather have the pre-order for the next book, or the person on your list? It's a hard decision. For me, at least at this point, I want that person on my list, because I'll have multiple opportunities to get them to pre-order. If they're on my list, I have them for a long time, and I have a way to communicate with them outside Amazon or any other platform I don't own. So an email is pretty valuable to me, maybe as valuable as a pre-order. That's why I've prioritised it.
+
+DOUG: You could make your first automation after greeting them a reminder not to forget to pre-order the next one. That might at least increase your percentage.
+
+MELANIE: I do have the pre-order there. I have the bonus scene opt-in to get on my newsletter list, and then I have what's coming next. If I have it written, I share a chapter of the next book and the pre-order. So I do have the two calls to action, just with the mailing list first. And in the follow-up the very next day, when I ask, "Did you get your bonus scene?", if there's another book in the series I say, "Time to read the next book," and if it's on pre-order, the pre-order is there too. I also say, "Do you want something to read right now?" and send the reader map with a suggested entry point.
+
+## Back to basics
+
+NICK: One of the things we've been talking about in our circles is this year, the madness that's continuing, and the challenges out there.
+
+MELANIE: What do you mean?
+
+NICK: That's the foreigner sitting on an island in the Caribbean, looking at America and pointing fingers. Look away. Look away. But there are challenges. Meta is changing everything and turning it on its head, making it much more difficult for us. Meta ads aren't built for selling ebooks, so what they're doing isn't made for us. It's not meant to hurt us, it's just a by-product. And Amazon is switching things around to combat lots of different things, which again sometimes hurts some of us. So it's tricky.
+
+One of the things we've been discussing a lot is coming full circle, back to the basics. If you were having good success with Meta ads and feeding people into book one of a series, you didn't have to release so often. A few years before that it was rapid release: the faster you can release, the better. We all see the big spikes when we release, so we try to do that. And then there's relying on and building your newsletter. I feel we've come a bit full circle: releases are the big spikes for us at the moment, and the tail from a release is much shorter than it used to be, which pushes us to release sooner when we can. But I think the newsletter is becoming bigger again. Mentally I've been treading water with mine. It's steadily growing, but right now Doug and I have spent a lot of time talking about it, and we've got some things in progress. How are we going to build that list, grow it and get back to that?
+
+MELANIE: I think it absolutely is worth your time. Send out regularly. I don't do weekly. I do every other week, and not always on the same day. I used to aim for every other Tuesday, but I thought, why am I making myself crazy about this? They don't care what day it is. I try to give them something they won't see on social media or hear about in my Facebook group, something just between me and the subscribers, whether it's a little piece of family life or something I've been doing. So it's not all sell, sell, sell, but they do like to hear about the behind-the-scenes work and what's coming up. As Meta changes things and Amazon changes things, this is you. This is a group of your readers who are interested in you.
+
+And I was thinking about the pre-order: as soon as readers click pre-order at the end of your book, they're taken to Amazon, and there are so many things on that product page that could take them elsewhere. When they come to my website for the bonus scene, I've got them a little. Maybe they'll look around my website and see what else is there: what audio I have available, what events I'll be at.
+
+DOUG: Are you doing merch on there?
+
+MELANIE: I do have merch through a vendor, though I can't even remember which one makes it. And I have a Shopify store, but it isn't currently open. I had somebody managing it for me, and how dare she, she left to write a book.
+
+NICK: That's what happens when you inspire people. Stop inspiring people.
+
+MELANIE: I gave her all my advice, and then she left to write a book.
+
+DOUG: We give advice and most of the time it bombs, and people send us a bill.
+
+MELANIE: I should have said I'm not giving you any advice, because I miss her terribly.
+
+DOUG: One-star her a whole bunch on her book.
+
+MELANIE: I would never. Terrible writer, fabulous assistant.
+
+## Melanie's author superpower
+
+NICK: All right, we've kept you forever. This has been brilliant, and there's so much more we want to ask, so we insist you come on again sometime. But we have a couple of things to throw at you before you go. The question we ask everyone is: what do you consider your author superpower?
+
+MELANIE: Discipline. I'm really focused. I get up early, I put my butt in the chair, I put my phone on Do Not Disturb, and I just keep at it.
+
+NICK: That's great. Doug does not have that gene.
+
+DOUG: No discipline, no focus. So I'm curious: how fast do you write? You write a lot of books.
+
+MELANIE: It's relative. I don't consider myself a particularly fast writer. I use Pacemaker.
+
+DOUG: Keeps you from keeling over.
+
+MELANIE: Not yet. Hopefully I won't need one. You give it a time limit and how many words you want to write, and how you like to do it: whether you like to build steadily, do the same amount every day, or have some days with more and some with less. You can customise the schedule, like, I need this weekend off, or I never want to work on Saturdays. So Pacemaker makes me a schedule, and I like the "rise to the challenge" setting. On days one and two, sometimes my word count goal is only two or three hundred words, and I crush it within an hour and think, I'm amazing. It feels so good. Generally I set it so I never have to write more than two thousand words a day, and I try to give myself enough time. Yesterday I happened to have a really great day, which is rare, and wrote about 3,700 words, because I knew where I was going and I'm well into the book. But my sweet spot is twelve to fifteen hundred words. I really love those days.
+
+NICK: That's about right. Those are good days.
+
+## The wheel of questions
+
+DOUG: So our final question, and we'll jump to it because we've kept you way too long and you've been wonderful. I've customised our wheel of questions for the season, so let's see what we get.
+
+NICK: He gets to customise them all the time. And he's lubricated the wheel so it spins over. You see, he thumbed it there. Did you see that? He thumbed it.
+
+DOUG: All right. It's: what's your favourite scary movie?
+
+MELANIE: I hate scary movies.
+
+DOUG: Oh. What's the scariest movie you can think of, then?
+
+MELANIE: *Pet Sematary*. My friend made me watch it in about the eighth grade, and to this day I have nightmares about it.
+
+DOUG: That was a creepy one. So it's not just me.
+
+NICK: It is pretty creepy.
+
+DOUG: Nick, what's your favourite scary movie?
+
+NICK: I have no favourite scary movie. I refuse to put myself through it. I don't understand anyone who wants to sit there terrified. Turn on the news, that'll terrify you.
+
+DOUG: Most of them aren't that scary. We watched *The Fly* the other night, because it's Halloween, then last night we watched *The Thing*, the old John Carpenter one, and the original *Halloween*. They're not scary-scary, but they're...
+
+NICK: The last horror movie I watched was the original *Texas Chainsaw Massacre*, with a bunch of friends at school, and you can't walk out of the room, right? So that was it. I was done. There's no way I'm watching another horror movie.
+
+DOUG: Well, all right. You two fell flat on Halloween week here. But I like some Halloween movies, like the Jack Skellington stuff.
+
+MELANIE: I'm going to be honest with you: I cannot stand *The Nightmare Before Christmas*. It's one of my least favourite movies ever.
+
+DOUG: Really? I love it.
+
+MELANIE: I hate that movie. I like some Tim Burton.
+
+NICK: I like some Tim Burton, but some of it I'm like, eh. I love *Beetlejuice*. I love the original *Batman*.
+
+MELANIE: My idea of a Halloween movie is *It's the Great Pumpkin, Charlie Brown*.
+
+NICK: I'm with you.
+
+DOUG: It's scary when the pumpkin comes out.
+
+NICK: Thank you so much, though. This has been brilliant. Thank you for spending all this time with us.
+
+MELANIE: My pleasure. Thanks for having me.
+
+## Wrap-up
+
+DOUG: Thank you so much, Melanie. She was so much fun.
+
+NICK: She's a delight. What a lovely lady.
+
+DOUG: If you get a chance to hear her speak, she's going to be at SPS London and Texas, and NINC next year. She's great when she speaks. And like I said, the newsletter talk she gave at NINC a couple of years ago really changed how we were doing business. I don't think that's changing. Some of the methods may be changing, but the importance of the newsletter, as you and Melanie both said, is huge right now.
+
+NICK: And that method of getting people on there. The great thing about having something in the back of the book is that they've just read the book and liked it. If they didn't like it, they're not going to sign up to your newsletter anyway. But if they've just read it and loved it and you say, "Hey, here's something extra about this character or this situation," it's the perfect time. They're clamouring for more.
+
+DOUG: They're still in bed with you at this point, so grab them while they're there, before you kick them out.
+
+NICK: All right, brilliant. This is a good one. Thank you so much, Melanie. Thank you to our Patreon subscribers. We love you folks. It's three dollars a month over at patreon.com, and you get all the bonus stuff. We just had a brilliant little bonus session with Melanie Harlow, so that's the kind of thing you'll get over there. And huge thanks to our friends at Vellum. This will come out after we've been to Vegas, but I can tell you we had a great time in Vegas chatting with the Brads, which will actually happen in two weeks' time.
+
+DOUG: It actually happens the day this comes out. We're in Vegas right now.
+
+NICK: Oh, right, we are. That's when this comes out. We're in [unclear] right now, and we can't wait to see the Brads of Vellum.
+
+DOUG: Perfect. Tune in next time to The Two Authors' Podcast, and until then, be cool to each other.
+
+NICK: Fair winds and following seas.
+
+ANNOUNCER: You've been listening to The Two Authors' Podcast with Nicholas Harvey and Douglas Pratt. Subscribe on your favourite platform for new shows coming every week.

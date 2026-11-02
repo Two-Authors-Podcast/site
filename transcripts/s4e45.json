@@ -1,0 +1,8 @@
+{
+  "speakers": {
+    "MELANIE": ["Melanie", true],
+    "ROBERT": ["Robert Gold", false],
+    "BOOKSFLYER": ["Sponsor", false]
+  },
+  "guest_bio_html": "<p>Melanie Harlow is a USA Today bestselling romance author based in Detroit. A former high school English teacher, she self-published her first books in 2013 and moved into contemporary romance in 2014. Most of her small-town series, including Cloverleigh Farms, are set in northern Michigan. Her newsletter has more than 180,000 subscribers, built largely on the bonus scene opt-in she explains in this episode.</p>"
+}
