@@ -1,0 +1,9 @@
+{
+  "speakers": {
+    "KATIE": ["Katie", true],
+    "GERRY": ["Gerry", false],
+    "JAMIE": ["Jamie", false],
+    "AUTHORNATION": ["Sponsor", false]
+  },
+  "guest_bio_html": "<p>Katie Mettner writes inclusive romance and romantic suspense featuring main characters with disabilities. She became an amputee in 2011 and wrote her first novel, <em>Sugar's Dance</em>, while recovering. She has since published more than seventy books, including the Secure One and Secure Watch series for Harlequin Intrigue. She runs the Books Breaking Barriers initiative and a December of Disabilities reading list of books by disabled authors, and she lives in Wisconsin with her husband and her miniature dachshund service dog, Lilibet Linn.</p>"
+}

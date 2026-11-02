@@ -1,0 +1,18 @@
+{
+  "show_title": "The Two Authors' Podcast",
+  "site_url": "https://twoauthorspodcast.com",
+  "feed_url": "https://feed.podbean.com/thetwoauthorschatshow/feed.xml",
+  "contact_email": "TwoAuthorsChatShow@gmail.com",
+  "show_description": "Bestselling mystery and thriller authors Douglas Pratt and Nicholas Harvey host fellow writers for lively, entertaining and informative conversation about forging a successful author career. New shows every week.",
+  "listen_links": [
+    ["Listen on Podbean", "https://thetwoauthorschatshow.podbean.com"],
+    ["Support us on Patreon", "https://www.patreon.com/thetwoauthorspodcast"],
+    ["RSS feed", "https://feed.podbean.com/thetwoauthorschatshow/feed.xml"]
+  ],
+  "about_html": "<p>What does it take to make it in the intensely competitive author world? Bestselling mystery and thriller authors Douglas Pratt and Nicholas Harvey host fellow writers for lively, entertaining and informative conversation about forging a successful author career. Expect healthy banter surrounding themes and topics they occasionally stick to, often derailed by curious tumbles down amusing rabbit holes.</p><p>Douglas Pratt: <a href=\"http://www.douglas-pratt.com\">website</a>, <a href=\"https://www.amazon.com/stores/Douglas-Pratt/author/B006M6UQVE\">books</a>, <a href=\"https://authordouglaspratt.com/mailing-list\">newsletter</a>.<br>Nicholas Harvey: <a href=\"https://www.harveybooks.com\">website</a>, <a href=\"https://www.amazon.com/stores/Nicholas-Harvey/author/B077W5KDV3\">books</a>, <a href=\"https://www.harveybooks.com/subscribe-landing-page\">newsletter</a>.</p><p>Presented by <a href=\"http://tryvellum.com/twoauthors\">Vellum</a>, with our partners at <a href=\"https://www.authornation.live\">Author Nation</a>. Intro by <a href=\"https://kimbretton.com\">Kim Bretton</a>. Edited by <a href=\"https://swsv.co.uk\">SWSV Sound &amp; Video Editing Services</a>. Music by AML Productions.</p>",
+  "speakers": {
+    "NICK": ["Nick", false],
+    "DOUG": ["Doug", false],
+    "ANNOUNCER": ["Announcer", false]
+  }
+}
