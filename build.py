@@ -53,6 +53,12 @@ def parse_feed(raw):
         enc = item.find("enclosure")
         img = item.find("itunes:image", NS)
         dt = email.utils.parsedate_to_datetime(g("pubDate")) if g("pubDate") else None
+        if not (season and number):
+            for src in ((enc.get("url") if enc is not None else ""), (img.get("href") if img is not None else ""), title):
+                m = re.search(r"S0*(\d+)[-_ ]?E(?:P)?0*(\d+)", src or "", re.I)
+                if m:
+                    season, number = m.group(1), m.group(2)
+                    break
         key = f"s{season}e{number}" if season and number else None
         slug = f"{key}-{slugify(title)}" if key else slugify(title)
         dur = g("itunes:duration")
@@ -163,6 +169,7 @@ def page(title, description, body, depth, canonical, json_ld=None, og_image=None
   </div>
 </header>
 <div class="sponsor">presented by <a href="http://tryvellum.com/twoauthors">Vellum</a></div>
+<div class="patreon"><div class="wrap"><span>Support the show on Patreon and get bonus content from us and our guests.</span> <a href="{esc(CONFIG['patreon_url'])}">Join us on Patreon</a></div></div>
 {body}
 <footer>
   <div class="wrap">
@@ -391,7 +398,14 @@ def main():
     open(os.path.join(OUT, ".nojekyll"), "w").write("")
     if os.path.exists(os.path.join(ROOT, "CNAME")):
         shutil.copy(os.path.join(ROOT, "CNAME"), os.path.join(OUT, "CNAME"))
+    keys = {ep["key"] for ep in episodes}
+    waiting = sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "transcripts")) if f.endswith(".txt") and f[:-4] not in keys)
     print(f"Built {len(episodes)} episode pages, {len(has_tr)} with transcripts.")
+    if waiting:
+        print("Transcripts waiting for their episode to appear in the feed: " + ", ".join(waiting))
+    dupes = sorted({k for k in [e["key"] for e in episodes if e["key"]] if [e["key"] for e in episodes].count(k) > 1})
+    if dupes:
+        print("WARNING: these episode numbers appear more than once in the feed: " + ", ".join(dupes))
 
 
 if __name__ == "__main__":
