@@ -39,8 +39,6 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--sky); outline-o
 .nav { display: flex; gap: 20px; font-family: var(--ui); font-weight: 600; font-size: .95rem }
 .nav a { color: var(--band-text); text-decoration: none; opacity: .85 }
 .nav a:hover { opacity: 1; text-decoration: underline }
-.sponsor { background: var(--plum); color: var(--band-text); font-family: var(--ui); font-size: .85rem; text-align: center; padding-block: 4px; letter-spacing: .04em }
-.sponsor a { color: inherit }
 .sample-note { background: var(--wash); font-family: var(--ui); font-size: .9rem; color: var(--text); border-bottom: 1px solid var(--rule) }
 .sample-note .wrap { padding-block: 8px }
 
@@ -140,7 +138,24 @@ audio { width: 100%; max-width: 560px; margin: 4px 0 16px; display: block }
   .latest img { max-width: 160px }
 }
 
-/* Patreon banner */
-.patreon { background: var(--wash); border-bottom: 1px solid var(--rule); font-family: var(--ui); font-size: .95rem }
-.patreon .wrap { padding-block: 8px; display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; justify-content: center; text-align: center }
-.patreon a { font-weight: 700; color: var(--plum) }
+
+/* Sponsor and Patreon banners */
+.sponsor { display: block; text-decoration: none; color: #ffffff; background: linear-gradient(180deg, #bb5cb1 0%, #8d40a0 100%) }
+.sponsor .wrap { display: flex; align-items: center; justify-content: center; gap: 12px; padding-block: 7px; font-family: var(--ui); font-size: 1.05rem; letter-spacing: .04em }
+.sponsor img { display: block; height: 38px; width: auto }
+.sponsor .vellum-word { height: 20px }
+.patreon { display: block; margin-top: 8px; text-decoration: none; background: var(--wash); border-block: 1px solid var(--rule); color: var(--text) }
+.patreon .wrap { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 8px 20px; padding-block: 14px; font-family: var(--ui); font-size: 1.15rem; text-align: center }
+.patreon-logo { display: block; height: 30px; width: auto }
+.patreon-cta { font-weight: 700; color: var(--plum); text-decoration: underline; text-underline-offset: 3px }
+.patreon:hover .patreon-cta, .sponsor:hover .presented { text-decoration: underline }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .patreon-logo { filter: invert(1) } }
+:root[data-theme="dark"] .patreon-logo { filter: invert(1) }
+@media (max-width: 640px) {
+  .sponsor img { height: 30px }
+  .sponsor .vellum-word { height: 16px }
+  .patreon .wrap { font-size: 1rem }
+}
+
+/* Keep every square image square */
+.hero img, .home-hero img, .latest img, .ep-card img { height: auto; aspect-ratio: 1; object-fit: cover }

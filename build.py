@@ -168,8 +168,8 @@ def page(title, description, body, depth, canonical, json_ld=None, og_image=None
     <nav class="nav" aria-label="Site"><a href="{up}index.html#episodes">Episodes</a><a href="{up}index.html#about">About</a><a href="{esc(CONFIG['listen_links'][0][1])}">Subscribe</a></nav>
   </div>
 </header>
-<div class="sponsor">presented by <a href="http://tryvellum.com/twoauthors">Vellum</a></div>
-<div class="patreon"><div class="wrap"><span>Support the show on Patreon and get bonus content from us and our guests.</span> <a href="{esc(CONFIG['patreon_url'])}">Join us on Patreon</a></div></div>
+<a class="sponsor" href="http://tryvellum.com/twoauthors"><span class="wrap"><span class="presented">presented by</span><img src="{up}assets/vellum-flower.png" alt="" width="40" height="38"><img class="vellum-word" src="{up}assets/vellum-wordmark.png" alt="Vellum" width="108" height="20"></span></a>
+<a class="patreon" href="{esc(CONFIG['patreon_url'])}"><span class="wrap"><img class="patreon-logo" src="{up}assets/patreon-logo.png" alt="Patreon" width="148" height="30"><span>Support the show and get bonus content from us and our guests.</span><span class="patreon-cta">Join us on Patreon</span></span></a>
 {body}
 <footer>
   <div class="wrap">
