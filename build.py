@@ -228,7 +228,7 @@ def episode_page(ep, tr):
     h1 = f"{inline(topic)}<span class=\"guest\">with {inline(guest)}</span>" if guest else inline(ep["title"])
     summary = first_paragraph(ep)
     art = ep["image"] or "../../assets/show-logo.jpg"
-    listen = "".join(f'<a class="btn" href="{esc(u)}">{esc(t)}</a>' for t, u in CONFIG["listen_links"][:3])
+    listen = "".join(f'<a class="btn" href="{esc(u)}">{esc(t)}</a>' for t, u in CONFIG["listen_links"][:5])
     mins = f" · {ep['minutes']} minutes" if ep["minutes"] else ""
 
     transcript_block, aside = "", ""
