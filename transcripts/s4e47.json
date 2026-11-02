@@ -1,0 +1,8 @@
+{
+  "speakers": {
+    "MATTY": ["Matty", true],
+    "AVA": ["Ava Glass", false],
+    "BOOKSFLYER": ["Sponsor", false]
+  },
+  "guest_bio_html": "<p>Matty Dalrymple writes supernatural suspense, including the Ann Kinnear Suspense novels and the Lizzy Ballard thrillers, and hosts The Indy Author Podcast. She published her first novel, <em>The Sense of Death</em>, in 2013. She also consults for authors and for professionals building a second-act career, and runs her From Expertise to Authority platform. In 2026 she began serialising her novels on Substack before publication, starting with <em>Something Rich and Strange</em>.</p>"
+}
