@@ -1,9 +1,21 @@
 {
   "speakers": {
-    "TOM": ["Tom", true],
-    "DEAN": ["Dean E. Ray", false],
-    "JAMIE": ["Jamie", false],
-    "AUTHORNATION": ["Sponsor", false]
+    "TOM": [
+      "Tom",
+      true
+    ],
+    "JAMIE": [
+      "Jamie",
+      false
+    ],
+    "AUTHORNATION": [
+      "Sponsor",
+      false
+    ],
+    "DEANY": [
+      "Deany Ray",
+      false
+    ]
   },
   "guest_bio_html": "<p>T.D. (Thomas Dean) Donnelly has made his living as a Hollywood screenwriter for more than thirty years, since his first feature script sold in a three-studio bidding war after he graduated from USC film school. His work includes adapting Clive Cussler's <em>Sahara</em> for the screen. He began writing novels during the Hollywood writers' strike and is the author of the Malcolm Chaucer spy thrillers, starting with <em>Year of the Rabbit</em>. His book <em>Super Draft</em> sets out his creator-versus-critic approach to the writing process.</p>"
 }
